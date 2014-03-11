@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nazev: MyString
+  evidencni_cislo: 1
+  vypujceno: false
+
+two:
+  nazev: MyString
+  evidencni_cislo: 1
+  vypujceno: false

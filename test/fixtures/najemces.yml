@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  osoba_id: 1
+  nazevfirmy: MyString
+  ico: 1
+  cislorp: 1
+  cisloop: 1
+
+two:
+  osoba_id: 1
+  nazevfirmy: MyString
+  ico: 1
+  cislorp: 1
+  cisloop: 1

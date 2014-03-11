@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  zarizeni_id: 1
+  najemce_id: 1
+  faktura_id: 1
+  datumod: 2014-03-11
+  datumdo: 2014-03-11
+  platba_hotove: false
+  platba_fakturou: false
+  misto_predani: MyString
+  zaloha: 1
+  cislo_smlouvy: 1
+
+two:
+  zarizeni_id: 1
+  najemce_id: 1
+  faktura_id: 1
+  datumod: 2014-03-11
+  datumdo: 2014-03-11
+  platba_hotove: false
+  platba_fakturou: false
+  misto_predani: MyString
+  zaloha: 1
+  cislo_smlouvy: 1
